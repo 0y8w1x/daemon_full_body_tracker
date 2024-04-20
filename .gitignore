@@ -1,0 +1,10 @@
+*.kicad_prl
+*.kicad_sch-bak
+*.rpt
+*.xls
+*.csv
+*.d356
+*.lck
+*.gbrjob
+/fp-info-cache
+/daemon_full_body_tracker-backups
