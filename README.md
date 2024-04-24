@@ -2,3 +2,7 @@
 
 ![board_render_front](daemon_full_body_tracker_front.png)
 ![board_render_back](daemon_full_body_tracker_back.png)
+
+# firmware
+
+for understanding devicetree and bindings: https://github.com/lmapii/practical-zephyr/tree/main
