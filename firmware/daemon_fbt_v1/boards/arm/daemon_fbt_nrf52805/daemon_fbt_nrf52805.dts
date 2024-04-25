@@ -1,0 +1,73 @@
+// Copyright (c) 2024 Nordic Semiconductor ASA
+// SPDX-License-Identifier: Apache-2.0
+
+/dts-v1/;
+#include <nordic/nrf52805_caaa.dtsi>
+#include "daemon_fbt_nrf52805-pinctrl.dtsi"
+
+/ {
+	model = "daemon_fbt_nrf52805";
+	compatible = "daemonxr,daemon-fbt-nrf52805";
+
+	chosen {
+		zephyr,sram = &sram0;
+		zephyr,flash = &flash0;
+		zephyr,code-partition = &slot0_partition;
+	};
+};
+
+//TODO: enable one input gpio, for the BHI360 interrupt signal
+// the interrupt signal comes in at Pin 0.05 as push-pull, active high, low drive level
+// 2 options: 1. use zephyr gpio driver or 2. use nrfx gpiote driver
+
+&gpio0 {
+	status = "okay";
+};
+
+&spi0 {
+	compatible = "nordic,nrf-spi";
+	status = "okay";
+	pinctrl-0 = <&spi0_default>;
+	pinctrl-1 = <&spi0_sleep>;
+	pinctrl-names = "default", "sleep";
+	cs-gpios = <&gpio0 21 GPIO_ACTIVE_LOW>;
+	bhi360: spi-device@0 {
+		compatible = "spi-device";
+		reg = <0>;
+		spi-max-frequency = <20000000>;
+		label = "imu";
+	};
+};
+
+&flash0 {
+	partitions {
+		compatible = "fixed-partitions";
+		#address-cells = <1>;
+		#size-cells = <1>;
+
+		boot_partition: partition@0 {
+			label = "mcuboot";
+			reg = <0x0 0xc000>;
+		};
+		slot0_partition: partition@c000 {
+			label = "image-0";
+			reg = <0xc000 0xa000>;
+		};
+		slot1_partition: partition@16000 {
+			label = "image-1";
+			reg = <0x16000 0xa000>;
+		};
+		scratch_partition: partition@20000 {
+			label = "image-scratch";
+			reg = <0x20000 0xa000>;
+		};
+		storage_partition: partition@2a000 {
+			label = "storage";
+			reg = <0x2a000 0x6000>;
+		};
+	};
+};
+
+
+
+
