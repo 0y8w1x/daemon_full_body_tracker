@@ -3421,7 +3421,7 @@
     (effects (font (size 2.54 2.54) bold (color 72 72 72 1)) (justify left bottom))
     (uuid 1f6ef4b5-15e8-4410-bb34-21f78d0426b8)
   )
-  (text "TODO:\n- add 0ohm resistor in series with VDD to nrf52805\n- add pin to power nRF52805 with different voltage for programming with DK\n- add 2x TXB0101DBVR 1-channel voltage translators for SWDIO and SWDCLK"
+  (text "TODO:\n- add 0ohm resistor in series with VDD to nrf52805\n- add pin to power nRF52805 with different voltage for programming with DK\n- add 2x TXB0101DBVR 1-channel voltage translators for SWDIO and SWDCLK\n- add UART for easier debugging"
     (at 19.685 25.4 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 25b47e1c-bde8-43db-a6c7-387e2cc2bcbb)
