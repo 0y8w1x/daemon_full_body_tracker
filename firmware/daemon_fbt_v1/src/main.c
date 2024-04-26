@@ -103,9 +103,9 @@ int esb_initialize(void)
 }
 
 int main(void) {
-        int err;
+    int err;
 
-        err = clocks_start();
+    err = clocks_start();
 	if (err) {
 		return 0;
 	}
