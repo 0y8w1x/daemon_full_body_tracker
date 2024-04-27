@@ -3606,7 +3606,7 @@
     )
     (pin "1" (uuid aa0d8006-e577-4a15-8b14-b71ffccd7252))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR025") (unit 1)
         )
@@ -3662,7 +3662,7 @@
     (pin "2" (uuid ae7f6604-f13f-4bd8-9736-f12bb02289d4))
     (pin "1" (uuid 7d38d26c-d199-4646-89ab-f44fc39887b2))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C6") (unit 1)
         )
@@ -3687,7 +3687,7 @@
     )
     (pin "1" (uuid a3d0f016-d262-41dd-9935-ca8556827d11))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR029") (unit 1)
         )
@@ -3712,7 +3712,7 @@
     )
     (pin "1" (uuid f2608341-8833-4aa8-9a4f-3052443cb718))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR08") (unit 1)
         )
@@ -3762,7 +3762,7 @@
     (pin "2" (uuid ef70564f-5577-4dd7-adf9-6416623acdd3))
     (pin "1" (uuid f6874cbd-e515-4001-9a54-98c99b619c68))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "L1") (unit 1)
         )
@@ -3797,7 +3797,7 @@
     (pin "2" (uuid ae220747-8bcf-4636-a4de-8c0421014f40))
     (pin "1" (uuid 4034f99b-a162-48ea-b550-bd50e6fc19fa))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "R3") (unit 1)
         )
@@ -3822,7 +3822,7 @@
     )
     (pin "1" (uuid b5a6993b-b194-4fc4-ad8a-327e2bcb7a65))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR034") (unit 1)
         )
@@ -3896,7 +3896,7 @@
     (pin "6" (uuid 522d6f4d-e385-4ee1-8dc8-7d28ab5054f8))
     (pin "17" (uuid 9fafa366-fb1c-4fb1-b54f-d8f857281633))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "U2") (unit 1)
         )
@@ -3921,7 +3921,7 @@
     )
     (pin "1" (uuid 82932578-76e2-46da-922f-c44b0ff4700e))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR04") (unit 1)
         )
@@ -3956,7 +3956,7 @@
     (pin "2" (uuid bd9f0b06-b173-4355-a8f9-f295546c185d))
     (pin "1" (uuid 54c564b7-090d-444d-b01f-f23bbc97f863))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "R1") (unit 1)
         )
@@ -3981,7 +3981,7 @@
     )
     (pin "1" (uuid 43aa6bd3-45ec-4104-bae1-b689a4d04c75))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR033") (unit 1)
         )
@@ -4036,7 +4036,7 @@
     )
     (pin "1" (uuid cc490686-caa7-40a0-abea-a0d950ef4d7c))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "J3") (unit 1)
         )
@@ -4092,7 +4092,7 @@
     (pin "2" (uuid 112f46d1-1ba5-4a71-b388-dca6a711cced))
     (pin "1" (uuid 5fc9ada9-fd0d-475c-a2f2-79ae48dc6db2))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C14") (unit 1)
         )
@@ -4148,7 +4148,7 @@
     (pin "1" (uuid 8871bb24-c066-40f0-8ee8-cf2f80b16c38))
     (pin "2" (uuid de4380bd-ffed-48fe-aadf-deb8c1d6530f))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "L3") (unit 1)
         )
@@ -4183,7 +4183,7 @@
     (pin "1" (uuid 89a6ddfb-dd10-4773-9262-0e469f05e14e))
     (pin "2" (uuid d0032a49-1bec-4529-891f-44621a9670c0))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "R5") (unit 1)
         )
@@ -4218,7 +4218,7 @@
     (pin "1" (uuid 4b8b731d-78b3-4c30-9238-97c8fa959186))
     (pin "2" (uuid fb6a723a-9d7e-46f2-9a30-1ff1ff9d7dd1))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C17") (unit 1)
         )
@@ -4253,7 +4253,7 @@
     (pin "1" (uuid 4ba33c0c-9d38-4d13-bc09-d9b8b1131123))
     (pin "2" (uuid 936e9e8b-3d33-4b4c-b96e-d5c6df6a2c98))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C21") (unit 1)
         )
@@ -4332,7 +4332,7 @@
     (pin "B1" (uuid 1df576b1-89c9-4e9c-bd36-1ce632e79ddb))
     (pin "E2" (uuid ab526470-010b-4016-bb30-403d9dbd2249))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "IC1") (unit 1)
         )
@@ -4390,7 +4390,7 @@
     (pin "2" (uuid 2a7ec61f-7892-4d33-860f-645e81f1ecf1))
     (pin "1" (uuid 45f14a36-ab81-43b1-af7c-06ccfa885071))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "Y2") (unit 1)
         )
@@ -4425,7 +4425,7 @@
     (pin "2" (uuid 43cd8b81-28a5-4726-b3a8-d4bc56a95213))
     (pin "1" (uuid f3c34934-c2ed-4d29-be3a-6cac5fbd8e60))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C2") (unit 1)
         )
@@ -4481,7 +4481,7 @@
     (pin "2" (uuid d8c6fbcd-f02b-42dc-84c4-e24f7fc5f8e3))
     (pin "1" (uuid 13e4b5b7-d535-45e8-8bf4-d99baead0ff6))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "L4") (unit 1)
         )
@@ -4516,7 +4516,7 @@
     (pin "2" (uuid e8c6f3b8-9256-4abd-91af-7a9eb9da3964))
     (pin "1" (uuid 501a927e-56fc-452c-8674-97ed139cb99b))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C1") (unit 1)
         )
@@ -4541,7 +4541,7 @@
     )
     (pin "1" (uuid 00fc7d41-f517-4fc9-9d07-e8ecd4d0ebe0))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR030") (unit 1)
         )
@@ -4576,7 +4576,7 @@
     (pin "1" (uuid 43c0bca4-0bc0-4d47-af72-5c6d3eb45172))
     (pin "2" (uuid cd882800-7808-4b11-8a5a-bf3fd7eaecf8))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C20") (unit 1)
         )
@@ -4611,7 +4611,7 @@
     (pin "1" (uuid dcab6d28-49b5-40f9-8d57-40c080dd77ec))
     (pin "2" (uuid ae1d30a7-ac3e-484c-839d-3d980d8ebb9a))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C19") (unit 1)
         )
@@ -4646,7 +4646,7 @@
     (pin "2" (uuid 6ad9ef54-e2d5-4a98-93ec-84a3f05f8204))
     (pin "1" (uuid 8529d371-e59c-4420-8e12-828d9d93cd72))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "R2") (unit 1)
         )
@@ -4710,7 +4710,7 @@
     (pin "A1" (uuid ef6e9c16-b139-4a21-941f-093ecf264443))
     (pin "A5" (uuid 479bfdf8-843e-4ec2-924f-d59c1f300dba))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "IC2") (unit 1)
         )
@@ -4735,7 +4735,7 @@
     )
     (pin "1" (uuid eb181200-d049-4bdd-a7f9-386e334dbd3b))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR05") (unit 1)
         )
@@ -4760,7 +4760,7 @@
     )
     (pin "1" (uuid 31bdfe89-ce21-4dbf-ba1a-273935bb9c2e))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR06") (unit 1)
         )
@@ -4816,7 +4816,7 @@
     (pin "2" (uuid 4cb55e10-ac0c-4c8d-bad8-f0fa140c089c))
     (pin "1" (uuid 8f62ba7f-aefc-453d-89ab-af4c589c7202))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C5") (unit 1)
         )
@@ -4841,7 +4841,7 @@
     )
     (pin "1" (uuid 97660451-c32b-4572-92c6-3430d0ba2135))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR017") (unit 1)
         )
@@ -4897,7 +4897,7 @@
     (pin "2" (uuid bd7745bd-9b91-4b9c-a631-170e29db20d4))
     (pin "1" (uuid f7d8abf5-db9d-447e-ad3d-e0e667e27d14))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C16") (unit 1)
         )
@@ -4953,7 +4953,7 @@
     (pin "1" (uuid 13b9b804-1399-474c-b3cd-7a3f873fc011))
     (pin "2" (uuid c709df5e-f684-42fe-9885-f0c9120ad48a))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C9") (unit 1)
         )
@@ -4978,7 +4978,7 @@
     )
     (pin "1" (uuid a3a10151-df1a-4f7f-989f-facbe3286a68))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR03") (unit 1)
         )
@@ -5034,7 +5034,7 @@
     (pin "1" (uuid b1851522-558c-4ce9-87d1-247367b0b582))
     (pin "2" (uuid ab2c303b-ecbd-48b2-a360-cb2099cb7ce0))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C10") (unit 1)
         )
@@ -5059,7 +5059,7 @@
     )
     (pin "1" (uuid 248a311b-6165-4e65-a095-19536a49996a))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR035") (unit 1)
         )
@@ -5084,7 +5084,7 @@
     )
     (pin "1" (uuid 1654d5f1-1409-41b1-a13a-5be776236b31))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR02") (unit 1)
         )
@@ -5109,7 +5109,7 @@
     )
     (pin "1" (uuid ef4275eb-12e7-4215-b496-1fe54801d4fd))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR036") (unit 1)
         )
@@ -5134,7 +5134,7 @@
     )
     (pin "1" (uuid 73dccb6a-7d11-4fe1-8570-d75a3a06623b))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR013") (unit 1)
         )
@@ -5159,7 +5159,7 @@
     )
     (pin "1" (uuid a6bb5e9f-fd05-43d2-887f-655f5962509b))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR020") (unit 1)
         )
@@ -5215,7 +5215,7 @@
     (pin "2" (uuid 4cefbaeb-5c25-4f5e-95c0-61cbc1ed2d86))
     (pin "1" (uuid 60f69008-eb42-46d7-8905-ab92aa4fdf6f))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C7") (unit 1)
         )
@@ -5270,7 +5270,7 @@
     )
     (pin "1" (uuid 76da93ab-1c5f-4c71-8540-bdbb42f17020))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "J5") (unit 1)
         )
@@ -5295,7 +5295,7 @@
     )
     (pin "1" (uuid 5eaf17b8-a4c9-441e-b7cb-aae94dc642b3))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR023") (unit 1)
         )
@@ -5320,7 +5320,7 @@
     )
     (pin "1" (uuid 91d1f101-c02a-4c48-b0e6-a9976b6bba41))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "TP2") (unit 1)
         )
@@ -5376,7 +5376,7 @@
     (pin "1" (uuid ecf5e7a1-15a2-461f-8cb3-ccbb43c0d6d0))
     (pin "2" (uuid 7828a79b-aea8-4ce8-aa90-5d173c1560e4))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "LED1") (unit 1)
         )
@@ -5401,7 +5401,7 @@
     )
     (pin "1" (uuid 8700d119-26fb-43d2-a9c7-05770c274f19))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR031") (unit 1)
         )
@@ -5426,7 +5426,7 @@
     )
     (pin "1" (uuid aa450b0a-fb29-4e31-8233-32aa353fcc16))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR07") (unit 1)
         )
@@ -5451,7 +5451,7 @@
     )
     (pin "1" (uuid 8e31d31b-23ba-4b3c-9e30-db8b6cb60943))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR019") (unit 1)
         )
@@ -5507,7 +5507,7 @@
     (pin "2" (uuid ea5aaf55-378a-474b-84f7-ba04a839c208))
     (pin "1" (uuid 6ba669e2-0d30-4aaf-bae7-40a90f780411))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C8") (unit 1)
         )
@@ -5563,7 +5563,7 @@
     (pin "1" (uuid 6a6da730-7336-44ba-b36c-ccf4015a4474))
     (pin "2" (uuid e82259ba-d6d5-4756-86ba-5b79d261e70d))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "LED2") (unit 1)
         )
@@ -5619,7 +5619,7 @@
     (pin "1" (uuid fa73e707-54f9-446f-aa48-5e0dcd815a50))
     (pin "2" (uuid e85d4cab-cb06-4650-8c27-a9c4d01f6e00))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "L5") (unit 1)
         )
@@ -5644,7 +5644,7 @@
     )
     (pin "1" (uuid df86f5c8-87d3-47f3-9487-feadfc2e6b94))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR016") (unit 1)
         )
@@ -5700,7 +5700,7 @@
     (pin "1" (uuid 6f9ac160-b734-4e52-aa53-8d73a674ba54))
     (pin "2" (uuid c70491b7-c980-475f-8377-df34fd39d5d1))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C18") (unit 1)
         )
@@ -5742,7 +5742,7 @@
     (pin "B1" (uuid a4616642-5101-4186-8179-032ee5310129))
     (pin "A2" (uuid 4c2439a1-d674-4530-83bd-943c10150ad6))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "U1") (unit 1)
         )
@@ -5798,7 +5798,7 @@
     (pin "2" (uuid 06cf7873-e0ba-40de-8e1a-150b0d3a544b))
     (pin "1" (uuid b4a19e10-207f-40c4-b1dc-608012c54562))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C13") (unit 1)
         )
@@ -5854,7 +5854,7 @@
     (pin "1" (uuid e352579e-7d96-4f2d-a719-b478b807fb33))
     (pin "2" (uuid b1eca827-c481-4214-96d7-b084990b79ae))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C22") (unit 1)
         )
@@ -5880,7 +5880,7 @@
     (pin "1" (uuid ee894760-131d-41cd-a77b-f81187c0b3b0))
     (pin "2" (uuid 16a0f195-2f2e-41e6-bdec-c97f966f2cc5))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "J1") (unit 1)
         )
@@ -5936,7 +5936,7 @@
     (pin "1" (uuid a5f72d8b-1987-4f2f-9780-704ab136d108))
     (pin "2" (uuid 73562d8f-4471-4aeb-91f0-556ccf4b2256))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C11") (unit 1)
         )
@@ -5961,7 +5961,7 @@
     )
     (pin "1" (uuid 4880c616-2d46-4c8d-adc5-fa10cefd83f5))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR09") (unit 1)
         )
@@ -5996,7 +5996,7 @@
     (pin "1" (uuid 5f43d888-9320-4288-9ec3-0fec515787fd))
     (pin "2" (uuid 42485df1-dd17-415c-ad27-74f5f6262dbb))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C4") (unit 1)
         )
@@ -6054,7 +6054,7 @@
     (pin "1" (uuid bdc03fa0-9063-453c-b6b4-dcb47c7aacac))
     (pin "SP3" (uuid ea87af81-cf17-4a49-a08f-2445cf899ff4))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "ANT1") (unit 1)
         )
@@ -6115,7 +6115,7 @@
     (pin "1" (uuid c397bc67-3af2-4234-9107-e7b2cc6f76a1))
     (pin "3" (uuid 8cbaa983-18c1-4979-afd9-c3e0debd2ddc))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "S1") (unit 1)
         )
@@ -6140,7 +6140,7 @@
     )
     (pin "1" (uuid 63f37090-d8ce-4ccd-8676-ab332080bd30))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR018") (unit 1)
         )
@@ -6165,7 +6165,7 @@
     )
     (pin "1" (uuid 6a2454fa-045a-4bbb-8b57-299eac6ae27b))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR011") (unit 1)
         )
@@ -6190,7 +6190,7 @@
     )
     (pin "1" (uuid b9a9efc8-027d-417a-b429-d8fcaea93053))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR015") (unit 1)
         )
@@ -6237,7 +6237,7 @@
     (pin "2" (uuid e3931a29-12a3-4943-ac2e-1c5c7746eb91))
     (pin "1" (uuid dfc6eec8-5525-441c-8dd9-92e042abf049))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "L2") (unit 1)
         )
@@ -6262,7 +6262,7 @@
     )
     (pin "1" (uuid 0d550855-8016-4b71-934f-e4297822fb8d))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR032") (unit 1)
         )
@@ -6287,7 +6287,7 @@
     )
     (pin "1" (uuid e6a43c12-18f2-4bd2-8a44-66b920878e42))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR01") (unit 1)
         )
@@ -6312,7 +6312,7 @@
     )
     (pin "1" (uuid 09388d88-58bc-451f-bb80-fc253808ad34))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR028") (unit 1)
         )
@@ -6337,7 +6337,7 @@
     )
     (pin "1" (uuid 1d46adf7-520d-4917-858c-263f5f4755b4))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR027") (unit 1)
         )
@@ -6362,7 +6362,7 @@
     )
     (pin "1" (uuid 727911c0-8f37-4e8f-8723-f1bdabc3885e))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR026") (unit 1)
         )
@@ -6397,7 +6397,7 @@
     (pin "1" (uuid c5142815-64b0-43de-b2f2-da8fab666831))
     (pin "2" (uuid 5174bd96-1ebb-452e-8fc4-7c5e1a77751b))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C3") (unit 1)
         )
@@ -6422,7 +6422,7 @@
     )
     (pin "1" (uuid ae0621fa-e68f-41a9-895f-b024c317d021))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "TP1") (unit 1)
         )
@@ -6447,7 +6447,7 @@
     )
     (pin "1" (uuid b9e66db7-67a2-4421-a807-b051d9277c46))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR024") (unit 1)
         )
@@ -6503,7 +6503,7 @@
     (pin "2" (uuid 63509b94-ee6f-44b2-8b70-8a0f1589c408))
     (pin "1" (uuid 78937c35-f2d6-4654-8194-85714dca0d60))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "Y1") (unit 1)
         )
@@ -6538,7 +6538,7 @@
     (pin "2" (uuid ce23267a-2694-435a-aa3e-85795e301362))
     (pin "1" (uuid 592265cb-a6a1-4796-ba7a-d067bcc7b04c))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "R4") (unit 1)
         )
@@ -6563,7 +6563,7 @@
     )
     (pin "1" (uuid f0f8f5f2-724e-4500-9002-1c7d7388c89c))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR038") (unit 1)
         )
@@ -6588,7 +6588,7 @@
     )
     (pin "1" (uuid b197f9a7-a4f3-4e47-ac30-99d56355dfe9))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR014") (unit 1)
         )
@@ -6613,7 +6613,7 @@
     )
     (pin "1" (uuid b4066ce8-b443-4bf7-9760-72bb3a0f8384))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR012") (unit 1)
         )
@@ -6669,7 +6669,7 @@
     (pin "1" (uuid dabecbe2-347d-4cc3-929e-b89707113e04))
     (pin "2" (uuid 0f67499a-324f-44f6-826c-5bcecf24cdf4))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "L6") (unit 1)
         )
@@ -6694,7 +6694,7 @@
     )
     (pin "1" (uuid 3ac91809-af7a-4cca-a710-bee662170fe0))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR039") (unit 1)
         )
@@ -6719,7 +6719,7 @@
     )
     (pin "1" (uuid c27b6776-8694-4475-8729-8201025f0e15))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR010") (unit 1)
         )
@@ -6744,7 +6744,7 @@
     )
     (pin "1" (uuid 1fe9a790-5848-4ddb-a11f-115fe490bd3b))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR022") (unit 1)
         )
@@ -6800,7 +6800,7 @@
     (pin "2" (uuid 7739be14-85a4-4365-b5d8-2603f8b02e70))
     (pin "1" (uuid 203c1e2c-f50e-4818-9ae0-ec55ce9a4d15))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C12") (unit 1)
         )
@@ -6825,7 +6825,7 @@
     )
     (pin "1" (uuid 39a81caa-706b-4c43-8b36-fb70dae203bc))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR037") (unit 1)
         )
@@ -6881,7 +6881,7 @@
     (pin "2" (uuid 505d61c0-fd6b-4f2e-ad85-2b9ad52c3b07))
     (pin "1" (uuid d5156ded-9782-46a8-9c73-1c9a14646a2c))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "C15") (unit 1)
         )
@@ -6906,7 +6906,7 @@
     )
     (pin "1" (uuid fa42de1a-55c1-4179-bf2e-b8cb4494bbab))
     (instances
-      (project "daemon_full_body_tracker"
+      (project "daemon_fbt_v1"
         (path "/38aaf527-9867-4d3e-be7f-d00585cd3b4e"
           (reference "#PWR021") (unit 1)
         )

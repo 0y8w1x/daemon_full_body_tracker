@@ -7,6 +7,7 @@
 *.lck
 *.gbrjob
 /fp-info-cache
-/daemon_full_body_tracker-backups
+/board_v1_NOT_WORKING/daemon_full_body_tracker-backups
+/board_v2/daemon_fbt_v2/daemon_fbt_v2-backups
 /firmware/daemon_fbt_v1/build
 /firmware/daemon_fbt_v1/build_daemon_fbt_v1
