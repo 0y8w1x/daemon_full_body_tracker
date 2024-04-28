@@ -460,7 +460,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../daemon_fbt_v2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
