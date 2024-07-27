@@ -1,7 +1,12 @@
-# current version:
+# current version (tracker):
 
-![board_render_front](full_body_tracker/daemon_full_body_tracker_front.png)
-![board_render_back](full_body_tracker/daemon_full_body_tracker_back.png)
+![board_render_front](full_body_tracker/front.png)
+![board_render_back](full_body_tracker/back.png)
+
+# current version (charger/updater):
+
+![charger_render_front](charger/front.png)
+![charger_render_back](charger/back.png)
 
 # firmware
 for understanding devicetree and bindings: https://github.com/lmapii/practical-zephyr/tree/main
