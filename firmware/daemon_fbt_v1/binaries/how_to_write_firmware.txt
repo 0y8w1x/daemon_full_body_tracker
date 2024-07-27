@@ -1,0 +1,11 @@
+to erase the qspi:
+nrfjprog --config firmware/daemon_fbt_v1/config.toml --qspieraseall
+
+to convert .fs or .bin to .hex:
+srec_cat BHI360.bin -binary -offset 0x12000000 -output BHI360.hex -Intel
+
+to write to qspi:
+nrfjprog --config firmware/daemon_fbt_v1/config.toml --program firmware/daemon_fbt_v1/binaries/BHI360.hex --verify
+
+to read qspi:
+nrfjprog --config firmware/daemon_fbt_v1/config.toml --readqspi qspi_content.hex

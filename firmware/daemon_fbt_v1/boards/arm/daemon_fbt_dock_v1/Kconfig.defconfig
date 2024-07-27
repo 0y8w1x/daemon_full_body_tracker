@@ -1,0 +1,13 @@
+# Copyright (c) 2024 Nordic Semiconductor ASA
+# SPDX-License-Identifier: Apache-2.0
+
+if BOARD_DAEMON_FBT_DOCK_V1
+
+config BOARD
+	default "daemon_fbt_dock_v1"
+
+config BT_CTLR
+   default BT
+
+
+endif

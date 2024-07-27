@@ -1,0 +1,13 @@
+# Copyright (c) 2024 Nordic Semiconductor ASA
+# SPDX-License-Identifier: Apache-2.0
+
+identifier: daemon_fbt_nrf52840_qiaa
+name: daemon_fbt_nrf52840_qiaa
+type: mcu
+arch: arm
+ram: 256
+flash: 1024
+toolchain:
+  - zephyr
+  - gnuarmemb
+  - xtools

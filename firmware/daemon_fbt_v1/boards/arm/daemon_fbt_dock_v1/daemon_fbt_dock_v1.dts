@@ -1,0 +1,58 @@
+// Copyright (c) 2024 Nordic Semiconductor ASA
+// SPDX-License-Identifier: Apache-2.0
+
+/dts-v1/;
+#include <nordic/nrf52820_qdaa.dtsi>
+
+/ {
+	model = "daemon_fbt_dock_v1";
+	compatible = "daemon,daemon-fbt-dock-v1";
+
+	chosen {
+		zephyr,sram = &sram0;
+		zephyr,flash = &flash0;
+		zephyr,code-partition = &slot0_partition;
+	};
+
+	zephyr,user {
+		led-gpios = <&gpio0 18 0>;
+	};
+};
+
+&flash0 {
+	partitions {
+		compatible = "fixed-partitions";
+		#address-cells = <1>;
+		#size-cells = <1>;
+
+		boot_partition: partition@0 {
+			label = "mcuboot";
+			reg = <0x0 0xc000>;
+		};
+		slot0_partition: partition@c000 {
+			label = "image-0";
+			reg = <0xc000 0x12000>;
+		};
+		slot1_partition: partition@1e000 {
+			label = "image-1";
+			reg = <0x1e000 0x12000>;
+		};
+		scratch_partition: partition@30000 {
+			label = "image-scratch";
+			reg = <0x30000 0xa000>;
+		};
+		storage_partition: partition@3a000 {
+			label = "storage";
+			reg = <0x3a000 0x6000>;
+		};
+	};
+};
+
+
+&usbd {
+	status = "okay";
+};
+
+&gpio0 {
+	status = "okay";
+};

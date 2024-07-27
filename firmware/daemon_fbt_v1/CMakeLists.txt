@@ -3,4 +3,7 @@ find_package(Zephyr REQUIRED HINTS $ENV{ZEPHYR_BASE})
 
 project(daemon_fbt_v1)
 
-target_sources(app PRIVATE src/main.c)
+zephyr_library_include_directories(${ZEPHYR_BASE}/drivers/flash)
+
+FILE(GLOB sources src/*.c)
+target_sources(app PRIVATE ${sources} ${flash_srcs})
