@@ -165,9 +165,3 @@ imu_spi: &spi0 {
 		zephyr,resolution = <8>;
 	};
 };
-
-*.xml
-*.kicad_sch
-*.kicad_pcb
-*.kicad_pro
-stackup.png
